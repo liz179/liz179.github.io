@@ -1,8 +1,20 @@
 ---
 layout: default
 ---
+# Welcome to My Learning Notes
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This personal website is where I document my daily learning and reflections on topics I am interested in.
+
+## Current Focus
+- System optimization and performance modeling
+- Communication Optimization
+- Parallel Strategies
+
+## Contact
+- Email: xxx
+
+Tthis is my personal website to recode my daily 
+
 
 [Link to another page](./another-page.html).
 
